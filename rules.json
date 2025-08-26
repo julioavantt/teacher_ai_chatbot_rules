@@ -1,0 +1,35 @@
+{
+  "inicio": {
+    "pregunta": "¿Qué te gustaría hacer? Por favor, escribe el número de tu opción:",
+    "opciones": {
+      "1": "Ver el menú",
+      "2": "Hacer un pedido",
+      "3": "Consultar horario",
+      "4": "Volver a comenzar"
+    }
+  },
+  "1": {
+    "tipo": "menu",
+    "respuesta": "Aquí está nuestro menú: \n\n- Pizzas: Margarita, Pepperoni, Vegetariana\n- Pastas: Spaghetti, Fetuccini\n- Bebidas: Gaseosa, Agua, Jugo"
+  },
+  "2": {
+    "tipo": "pedido",
+    "respuesta": "¿Qué te gustaría pedir? (Pizza, Pasta, Bebida)",
+    "opciones": {
+      "pizza": "Opciones: Muzzarella, Pepperoni, Vegetariana",
+      "pasta": "Opciones: Spaghetti, Fetuccini",
+      "bebida": "Opciones: Cerveza, Gaseosa, Agua, Jugo"
+    }
+  },
+  "3": {
+    "tipo": "consultar_horario",
+    "respuesta": "Abrimos de Lunes a Sábado, de 12:00 a 23:00."
+  },
+  "no_entendido": {
+    "tipo": "no_entendido",
+    "respuesta": "Lo siento, no entendí tu respuesta. Por favor, selecciona una de las opciones válidas."
+  },
+  "tomar_pedido": {
+    "respuesta": "Gracias, hemos recibido tu pedido!"
+  }
+}
