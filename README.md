@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]()
 
 <div align="center">
-<h1 align="center">Hola, soy <a style="color: pink" href="https://www.youtube.com/@juniorpride">Julio Avantt!</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" style="position: relative; top: 25px" /></h1>
+<h1 align="center" style="color: pink">Hola, soy Julio Avantt! <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" style="position: relative; top: 25px" /></h1>
  
 </div>
 <p align="center">
