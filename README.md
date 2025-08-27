@@ -18,7 +18,7 @@
 
 - ⭐ Programo desde hace 2008.
 - 📲 Me especializo en Frontend y me interesa la IA.
-- 🎥 Enseño en Betahub/Guayerd HTML Y Javascript y en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
+- 🎥 Enseño en Betahub/Guayerd HTML y Javascript y en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
 - ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
