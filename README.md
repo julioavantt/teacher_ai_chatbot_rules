@@ -6,7 +6,7 @@
 <div align="center">
 Hola, soy Julio Avantt! 
 </div>
-
+<br>
 <p align="center">
  <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png" style="width:250px">
 </p>
