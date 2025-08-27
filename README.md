@@ -4,11 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green)]()
 
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://www.youtube.com/@juniorpride">Julio Avantt!</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" /></h1>
+<h1 align="center">Hola, soy <a href="https://www.youtube.com/@juniorpride">Julio Avantt!</a> <img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" style="position: relative; top: 5px" /></h1>
  
 </div>
 <p align="center">
- <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png" style="width:200px">
+ <img src="https://github.com/julioavantt/julioavantt/blob/main/unicorn-with-glasses.png" style="width:250px">
 </p>
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC38RutKRyCUHZ866mTNkUAw?link=https%3A%2F%2Fyoutube.com%2F%40juniorpride)
@@ -16,9 +16,9 @@
 
 ## Sobre mi
 
-- ⭐ Programo desde hace 14 años.
-- 📲 Me especializo en Frontend.
-- 🎥 Enseño en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
+- ⭐ Programo desde hace 2008.
+- 📲 Me especializo en Frontend y me interesa la IA.
+- 🎥 Enseño en Betahub/Guayerd HTML Y Javascript y en Coderhouse los cursos de React Js, Javascript y Desarrollo Web.
 - ✏️ Cree cursos, fui profesor e hice mentorías en Alkemy, Digital House, Rolling Code, Educación IT, Guayerd, BlockAcademy.
 - 🧑‍🏫 Creador de [Junior Pride](https://www.youtube.com/@juniorpride)
   <br>
